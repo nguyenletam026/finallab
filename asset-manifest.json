@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/finallab/static/css/main.bdd4bebd.css",
+    "main.js": "/finallab/static/js/main.4c10db14.js",
+    "static/js/787.e81cdf66.chunk.js": "/finallab/static/js/787.e81cdf66.chunk.js",
+    "index.html": "/finallab/index.html",
+    "main.bdd4bebd.css.map": "/finallab/static/css/main.bdd4bebd.css.map",
+    "main.4c10db14.js.map": "/finallab/static/js/main.4c10db14.js.map",
+    "787.e81cdf66.chunk.js.map": "/finallab/static/js/787.e81cdf66.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bdd4bebd.css",
+    "static/js/main.4c10db14.js"
+  ]
+}
