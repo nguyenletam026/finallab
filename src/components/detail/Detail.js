@@ -75,7 +75,7 @@ function Detail() {
                                   color:"white"
 
               }} gutterBottom>
-                Price: {staffs.release} VNĐ
+                Price: {staffs.price} $
               </Typography>
               <Typography gutterBottom style={{color:"white"}}>
                 Details: {staffs.info}
